@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@400;700&family=Noto+Sans+SC:wght@400;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 html,
 body {
     width: 100%;
@@ -111,4 +110,12 @@ a:hover {
     font-family: 'Roboto Mono', monospace;
     font-size: 50px;
     letter-spacing: .5em;
+}
+
+.zh-hant{
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+.zh-hans{
+    font-family: 'Noto Sans SC', sans-serif;
 }
