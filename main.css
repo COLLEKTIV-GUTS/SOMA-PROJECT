@@ -15,7 +15,7 @@ footer {
     margin: auto;
     text-align: right;
     width: 90%;
-    font-size: x-small;
+    font-size: smaller;
 }
 
 a {
@@ -83,6 +83,15 @@ a:hover {
     border: 1px solid black;
     background-color: black;
     color: white;
+}
+
+.imgs{
+    width: 100%;
+}
+
+.imgs img{
+    width: 100%;
+    height: auto;
 }
 
 #nav {
